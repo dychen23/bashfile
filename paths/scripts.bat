@@ -1,1 +1,1 @@
-cd C:\Users\cc\Downloads\scripts
+cd C:\Users\cc\Downloads\scripts\paths
