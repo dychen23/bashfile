@@ -1,1 +1,2 @@
-cd C:\Users\cc\Downloads\scripts\paths
+SET USER=%HOMEPATH%
+cd C:%USER%\Downloads\scripts\paths
