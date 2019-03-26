@@ -1,1 +1,2 @@
-cd C:\Users\cc\downloads
+SET USER=%HOMEPATH%
+cd C:%USER%\Downloads
