@@ -1,2 +1,2 @@
 SET USER=%HOMEPATH%
-cd C:%USER%\Downloads\scripts\paths
+cd C:%USER%\batchfiles\paths
